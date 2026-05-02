@@ -17,5 +17,5 @@ public class Test7Application {
 		double z=10.3;
 		boolean isPresent=false;
 		float m=10.3f;
-		char g="M";
+		int k=87;
 		SpringApplication.run(Test7Application.class, args); }}
